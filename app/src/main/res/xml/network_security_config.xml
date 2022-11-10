@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- note this is for connecting to the Ricoh Theta via a secure wifi connection -->
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">gist.githubusercontent.com</domain>
+    </domain-config>
+</network-security-config>
